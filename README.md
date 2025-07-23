@@ -1,5 +1,3 @@
-# serversage-tools-cli-public
-
 # ServerSage CLI Tools
 This repository contains command-line tools for managing ServerSage instances. The tools are designed to help with the setup, configuration, and maintenance of ServerSage servers.
 
