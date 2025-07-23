@@ -85,7 +85,7 @@ Serversage Agents can translate your natural language requests into commands tha
 - While running the **ServerSage Bastion**, you need to ensure that the SSH key is available on the bastion server.
 
 ## Installation
-To install the ServerSage CLI tools, you can download the latest release from the [Releases](https://github.com/socialmethod/serversage-tools-cli/releases) page.
+To install the ServerSage CLI tools, you can download the latest release from the [Releases](https://github.com/socialmethod/serversage-tools-cli-public/releases/tag/v1.0.0) page.
 
 Then unzip the downloaded file, then execute the `serversage-tools-cli` binary from the command line.
 
