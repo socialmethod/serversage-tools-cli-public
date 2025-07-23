@@ -95,7 +95,7 @@ The ServerSage CLI tools provide several commands to manage your ServerSage inst
 ### Tools Tree Menu
 When you run the CLI tools, you will see a menu with the following options:
 ```text
-linux/
+ubuntu(linux)/
 ├─ aws ssm protocol/
 │  ├─ install aws cli (required)
 │  ├─ configure aws cli (required)
@@ -130,11 +130,11 @@ windows/
 ### Select Your Operating System
 When you run the CLI tools, you will be prompted to select your operating system. This is important because the commands and configurations may vary based on the OS you are using.
 You can choose from the following options:
-1. [**Linux**](#linux)
+1. [**Ubuntu (Linux)**](#linux)
 2. [**MacOS**](#macos)
 3. [**Windows**](#windows)
 
-### Linux
+### Ubuntu (Linux)
 ### Select Protocol
 After selecting your operating system, you will be prompted to select the protocol you want to use for connecting to your target servers. This protocol will be used by the **ServerSage Bastion** to execute commands on the **Target Servers**.
 
